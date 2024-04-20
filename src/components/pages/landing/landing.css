@@ -1,0 +1,10 @@
+.centered-paragraph {
+    text-align: center;
+    /* font-size: 24px; */
+    color: #333333; /* Dark gray text */
+    padding: 20px;
+}
+
+.paragraph-container {
+    margin-top: -500px; /* Adjust this value as needed */
+}
