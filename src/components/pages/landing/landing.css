@@ -1,11 +1,9 @@
 .centered-paragraph {
     text-align: left;
-    /* font-size: 24px; */
-    color: #333333; /* Dark gray text */
+    color: #333333;
     padding: 20px;
 }
 
 .paragraph-container {
-    margin-top: -500px; /* Adjust this value as needed */
-    text-align: left;
+    margin-top: -350px; 
 }
