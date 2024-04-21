@@ -6,14 +6,12 @@ const LandingPage: React.FC = () => {
   return (
 
     <div className="landing-page d-flex justify-content-center align-items-center vh-100">
-    <div className="col-lg-5 paragraph-container">
-      <p className="centered-paragraph">
-      👋
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-      in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+    <div className="col-lg-4 paragraph-container text-left">
+      <p className="centered-paragraph ">
+      👋 <br/>Hey, Ismail here! <br/><br/>
+      I'm a passionate Software Engineer, focused primarily on building robust and scalable web backend solutions.<br/><br/>
+      I possess expertise in leveraging Go(Golang) and Node.JS to build systems that outlive the test of time and space.<br/><br/>
+      You can get in touch with me at <strong>hello@ismailmuhammad.com</strong>.
       </p>
     </div>
   </div>
