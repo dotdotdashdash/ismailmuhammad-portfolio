@@ -10,7 +10,7 @@ const LandingPage: React.FC = () => {
       <p className="centered-paragraph ">
       👋 <br/>Hey, Ismail here! <br/><br/>
       I'm a passionate Software Engineer, focused primarily on building robust and scalable web backend solutions.<br/><br/>
-      I possess proficiency in leveraging Go(Golang) and Node.JS to build systems that outlive the test of time and space.<br/><br/>
+      I possess proficiency in leveraging Go(Golang), Node.JS and SQL to build systems that outlive the test of time and space.<br/><br/>
       You can get in touch with me at <strong>hello@ismailmuhammad.com</strong>.
       </p>
     </div>
